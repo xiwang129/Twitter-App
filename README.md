@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= ![](/Users/amy/Desktop/twitter-part1.gif.gif), title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= ![](/Users/amy/Desktop/twitter-part1.gif), title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
